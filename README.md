@@ -33,8 +33,7 @@ Technology Stack
 
 Data Structures Used 
 
-1. 
-**2D Array (Grid)**: Used to represent the puzzle structure and maintain the state of each `Cell` object.
+1. **2D Array (Grid)**: Used to represent the puzzle structure and maintain the state of each `Cell` object.
 
 
 2. **Double-Ended Queue (`collections.deque`)**: Utilized in the `flood_fill` algorithm to efficiently manage the queue of cells to be revealed during empty-space expansion.
