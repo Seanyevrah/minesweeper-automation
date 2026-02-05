@@ -54,7 +54,7 @@ Algorithm Complexity
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/YourUsername/Minesweeper-DS-Automator.git
+git clone https://github.com/YourUsername/minesweeper-automation.git
 
 ```
 
