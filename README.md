@@ -46,8 +46,8 @@ Algorithm Complexity
 
 | Algorithm | Data Structure | Time Complexity | Space Complexity |
 | --- | --- | --- | --- |
-| **Flood Fill (Reveal)** | `deque` |  |  |
-| **Puzzle Solver** | Nested Loops / Grid |  |  (In-place) |
+| **Flood Fill (Reveal)** | `deque` | $O(N \times M)$ | $O(N \times M)$ |
+| **Puzzle Solver** | Nested Loops / Grid | $O((N \times M)^2)$ | $O(1)$ (In-place) |
 
 ---
 
